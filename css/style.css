@@ -1,0 +1,40 @@
+/* question and answer slider  */
+.question{
+    padding: 15px;
+    font-size: 22px;
+    font-weight: 700;
+    cursor: pointer;
+
+}
+.answer{
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+/* jquery for animation */
+#box{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    position: absolute;
+    margin-top: 10px;
+}
+
+/* hr margin */
+.marginTop{
+    margin-top: 150px;
+}
+
+/* for animation stop  */
+#panel{
+    padding: 55px;
+    font-size: 18px;
+    text-align: center;
+    background-color: #555;
+    color: white;
+    border: solid 1px #666;
+    border-radius: 3px;
+    display: none;
+}
